@@ -4,7 +4,7 @@
     "TELL HIM": "Let's tweet @ GregoryHeller so he knows your chatting up his bot. Here's a tweet that's ready to go: %[Tweet Gregory](https://twitter.com/intent/tweet?text=I%27m%20chatting%20with%20@gregoryheller%20via%20his%20bot.)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "WHERE DO YOU LIVE": "Seattle, Washington."
-    "SCHEDULE": "Do you want to schedule and appointment? %[Schedule an appointment]
+    "SCHEDULE": "Do you want to schedule and appointment?%[Schedule an appointment]"
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, GregoryBot is back."
 }
